@@ -19,7 +19,7 @@ Use file `FastReader_Template.java`. Period!
 
 ## NOTE -
 
-### IF YOU WANT YOU CAN COPY THE TEMPLATES FROM `template-for-CP.json` file in the repo.
+### IF YOU WANT YOU CAN COPY THE TEMPLATES FROM `templates/template-for-CP.json` file in the repo.
 
 ## TEMPLATE SHORTCUTS -
 
